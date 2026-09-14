@@ -4,6 +4,10 @@ A live webcam-based gesture classifier using MediaPipe hand landmark
 detection and a Random Forest classifier — recognizes hand gestures
 (fist, open palm, thumbs up, peace sign, point) in real time.
 
+## Demo
+
+![Gesture Recognition Demo](demo/gesture_demo.mp4)
+
 ## How it works
 
 1. **MediaPipe** detects 21 hand landmark points (fingertips, knuckles,
